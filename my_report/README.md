@@ -41,6 +41,7 @@
 η επιλογή χρωματικής παλέτας και η θέση του directional light έγιναν  διότι θέλησα να αποδώσω μια πιο θερμή καλοκαιρινή αίσθηση στη πόλη μου. 
 
 ![directional](https://user-images.githubusercontent.com/125687882/225659986-300e5b00-b54b-4a25-89c1-f1a79f239a67.JPG)
+![color](https://user-images.githubusercontent.com/125687882/225660391-e103b93a-4190-42d5-a11e-c5bb9304351e.JPG)
 
 
 # 2nd Deliverable
