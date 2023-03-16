@@ -29,9 +29,11 @@
 ![background](https://user-images.githubusercontent.com/125687882/225656977-8d0989c2-7b56-43c6-b935-2df0729efd6f.JPG)
 
  middleground
+ 
  ![middleground](https://user-images.githubusercontent.com/125687882/225657255-c187d2c6-1de1-4c4d-9b5c-8cebf54c146b.JPG)
  
  foreground
+ 
  ![foreground](https://user-images.githubusercontent.com/125687882/225657561-1a5c176e-5e0d-47fe-ac26-30dbe8396701.JPG)
 
 # 2nd Deliverable
