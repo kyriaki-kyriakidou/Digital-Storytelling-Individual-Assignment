@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### First and Last Name: Κυριακή Κυριακίδου
+### University Registration Number: dpsd20056
+### GitHub Personal Profile: https://github.com/kyriaki-kyriakidou
+### Digital-Storytelling-Individual-Assignment: https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
