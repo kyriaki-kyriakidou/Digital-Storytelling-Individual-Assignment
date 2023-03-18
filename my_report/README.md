@@ -44,7 +44,7 @@
 ![directional](https://user-images.githubusercontent.com/125687882/225659986-300e5b00-b54b-4a25-89c1-f1a79f239a67.JPG)
 ![color](https://user-images.githubusercontent.com/125687882/225660391-e103b93a-4190-42d5-a11e-c5bb9304351e.JPG)
 
-~UNIT 2
+~UNIT 3
 
 ![σ](https://user-images.githubusercontent.com/125687882/226136053-d3d354bb-96f4-4d1d-aa38-62fea22b23d4.JPG)
 
@@ -88,7 +88,34 @@
 
 ![Καταγραφή](https://user-images.githubusercontent.com/125687882/226135117-5c00c8dc-47a4-4543-a055-c74572d18e84.JPG)
 
+~UNIT 4
+Φτάνοντας στο unit 4  αποφάσισα να εμβαθύνω στην ιδέα της look alike real πόλης δηλαδή να θυμίζει αλλά να έχει αρκετά στόχευα φαντασίας ώστε να ξεφεύγει από αυτή.
 
+Αυτός είναι ο λόγος που επέλεξα να μην βάλω ανθρώπους μέσα στο βίντεο μου άλλο κάποιους φανταστικούς χαρακτήρες που βρήκα έτοιμους από το πρόγραμμα. 
+
+![god](https://user-images.githubusercontent.com/125687882/226137185-4b7b90fd-522e-4a37-b59a-f72ec70a3ee4.JPG)
+![robot](https://user-images.githubusercontent.com/125687882/226137221-3110a5ed-3578-40d3-868b-19955064e459.JPG)
+
+Όσον αφορά την γάτα ενώ μορφή του 3D μοντέλου παραμένει η ιδία το μέγεθος και το υλικό αλλάζει. Πιο συγκεκριμένα το μέγεθος ξεφεύγει αρκετά από το συνηθισμένο ενώ το υλικό που διάλεξα είναι γυάλινο για να αποκτήσει μια  πιο εξωπραγματική και φουτουριστική απεικόνιση.  
+
+![cat](https://user-images.githubusercontent.com/125687882/226137977-e19c650f-a14e-4686-975f-bedafe2c5a2e.JPG)
+![matirial](https://user-images.githubusercontent.com/125687882/226137981-72617427-cd07-4dbf-aca3-b340708efded.JPG)
+
+Ακλουθώντας παρόμοιο λογική για τα αυτοκίνητα   που επιλέχτηκαν είναι τα παρακάτω
+
+![car](https://user-images.githubusercontent.com/125687882/226138526-c9072c62-1816-42fe-9671-43d054f48d53.JPG)
+![car2](https://user-images.githubusercontent.com/125687882/226138565-7366ded8-ee5a-4e29-9946-2d54dbbf1090.JPG)
+
+όσον αφορά το animation τους αποφάσισα το ένα αυτοκίνητο να κινηθεί παραδοσιακά ενώ το άλλο να γίνει ιπτάμενο.  
+
+![ani](https://user-images.githubusercontent.com/125687882/226139193-5858e26a-b218-4e55-894b-fbc3e92b4a17.JPG)
+![ani2](https://user-images.githubusercontent.com/125687882/226139195-2fe568ab-58ec-4f73-8ff5-10160761511a.JPG)
+
+![anime1](https://user-images.githubusercontent.com/125687882/226139461-0be22709-2617-4fa6-89c1-09f64b6db2d9.JPG)
+![anime2](https://user-images.githubusercontent.com/125687882/226139487-1760a2dd-e6ca-4183-bb01-478843d53fe8.JPG)
+
+
+το βίντεο μου λοιπόν κάνει ένα παιχνίδι ανάμεσα σε ρεαλισμό και φαντασία καθιστώντας την πόλη  σαν μια πόλη του μέλλοντος ή και ενός άλλου πλανήτη, καθώς διατηρεί στοιχειά που μας είναι γνώριμα όπως τα αυτοκίνητα ή μια γάτα αλλά έχουν πάντα και μια πινελιά εξωπραγματικού.
 
 # 2nd Deliverable
 
