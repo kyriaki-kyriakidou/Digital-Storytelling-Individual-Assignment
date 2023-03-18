@@ -74,6 +74,8 @@
 ![5](https://user-images.githubusercontent.com/125687882/226134150-7f83413e-321d-4c24-b016-f39eb40690e8.JPG)
 
 
+
+
 Μέσα στις διαφανείς επιφάνειες των φωτιστικών έχουν τοποθετηθεί point lights για να φωτίζουν την πόλη σε περίπτωση αλλαγής του directional light.
 
 ![7](https://user-images.githubusercontent.com/125687882/226135423-7338b97c-c625-406e-9dc3-0bc4a414fbeb.JPG)
