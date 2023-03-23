@@ -39,6 +39,7 @@
 ![2](https://user-images.githubusercontent.com/125687882/225618339-94231758-553c-4960-a205-36afc032406d.JPG)
 ![3](https://user-images.githubusercontent.com/125687882/225618386-fb491f15-3c89-4978-8311-ffc1d2732f3c.JPG)
 ![4](https://user-images.githubusercontent.com/125687882/225618404-5778567d-e321-45b2-bcb6-1ace352b3905.JPG)
+![6](https://user-images.githubusercontent.com/125687882/227239546-16bc8aaf-cd35-4cd5-84e6-14d514c91eee.JPG)
 
 
 η επιλογή χρωματικής παλέτας και η θέση του directional light έγιναν  διότι θέλησα να αποδώσω μια πιο θερμή καλοκαιρινή αίσθηση στη πόλη μου. 
