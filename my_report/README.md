@@ -47,7 +47,7 @@
 ![directional](https://user-images.githubusercontent.com/125687882/225659986-300e5b00-b54b-4a25-89c1-f1a79f239a67.JPG)
 ![color](https://user-images.githubusercontent.com/125687882/225660391-e103b93a-4190-42d5-a11e-c5bb9304351e.JPG)
 
-
+το βίντεο
 
 https://user-images.githubusercontent.com/125687882/228881860-eacb7e0c-4af1-42eb-a9f6-e512f4939426.mp4
 
@@ -98,8 +98,10 @@ https://user-images.githubusercontent.com/125687882/228881860-eacb7e0c-4af1-42eb
 ![Καταγραφή](https://user-images.githubusercontent.com/125687882/226135117-5c00c8dc-47a4-4543-a055-c74572d18e84.JPG)
 
 
+το βίντεο
 
 https://user-images.githubusercontent.com/125687882/228882109-352c097b-9885-48ec-8b24-5e70d4605c64.mp4
+
 
 
 
@@ -135,7 +137,7 @@ https://user-images.githubusercontent.com/125687882/228882109-352c097b-9885-48ec
 
 ![Καταγραφή](https://user-images.githubusercontent.com/125687882/226139683-0ffb56ee-a912-4ee0-a39c-46b17febab8e.JPG)
 
-
+το βίντεο
 
 https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82-b1f3-cefd6ff778dd.mp4
 
