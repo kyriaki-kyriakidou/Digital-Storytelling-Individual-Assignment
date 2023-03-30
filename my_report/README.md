@@ -47,6 +47,12 @@
 ![directional](https://user-images.githubusercontent.com/125687882/225659986-300e5b00-b54b-4a25-89c1-f1a79f239a67.JPG)
 ![color](https://user-images.githubusercontent.com/125687882/225660391-e103b93a-4190-42d5-a11e-c5bb9304351e.JPG)
 
+
+
+https://user-images.githubusercontent.com/125687882/228881860-eacb7e0c-4af1-42eb-a9f6-e512f4939426.mp4
+
+
+
 ~UNIT 3
 
 ![σ](https://user-images.githubusercontent.com/125687882/226136053-d3d354bb-96f4-4d1d-aa38-62fea22b23d4.JPG)
@@ -91,6 +97,12 @@
 
 ![Καταγραφή](https://user-images.githubusercontent.com/125687882/226135117-5c00c8dc-47a4-4543-a055-c74572d18e84.JPG)
 
+
+
+https://user-images.githubusercontent.com/125687882/228882109-352c097b-9885-48ec-8b24-5e70d4605c64.mp4
+
+
+
 ~UNIT 4
 
 Φτάνοντας στο unit 4  αποφάσισα να εμβαθύνω στην ιδέα της look alike real πόλης δηλαδή να θυμίζει αλλά να έχει αρκετά στόχευα φαντασίας ώστε να ξεφεύγει από αυτή.
@@ -122,6 +134,12 @@
 το βίντεο μου λοιπόν κάνει ένα παιχνίδι ανάμεσα σε ρεαλισμό και φαντασία καθιστώντας την πόλη  σαν μια πόλη του μέλλοντος ή και ενός άλλου πλανήτη, καθώς διατηρεί στοιχειά που μας είναι γνώριμα όπως τα αυτοκίνητα ή μια γάτα αλλά έχουν πάντα και μια πινελιά εξωπραγματικού.
 
 ![Καταγραφή](https://user-images.githubusercontent.com/125687882/226139683-0ffb56ee-a912-4ee0-a39c-46b17febab8e.JPG)
+
+
+
+https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82-b1f3-cefd6ff778dd.mp4
+
+
 
 
 # 2nd Deliverable
