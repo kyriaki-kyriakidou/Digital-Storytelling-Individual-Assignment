@@ -146,6 +146,7 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
 
 # 2nd Deliverable
 
+~ UNIT 5
 Για το δεύτερο παραδοτέο έγιναν κάποιες σημαντικές αλλαγές
 Αρχικά με τα εργαλεία του unity δημιούργησα τον κακό της υπόθεσης το “Μάτι” το οποίο φαίνετε παρακάτω:
 
@@ -195,7 +196,13 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
 ![Καταγραφή15](https://user-images.githubusercontent.com/125687882/234999374-0e81af47-8199-452d-b1be-832d6f373eef.JPG)
 ![Καταγραφή17](https://user-images.githubusercontent.com/125687882/234999385-b673d5aa-53e6-4ab7-bdc8-a2aed6115ed5.JPG)
 
+Παρακάτω είναι μια εικόνα της πόλης με ενεργοποιημένο το fog ωστόσο αποφάσισα  να το χρησιμοποιήσω αργότερα στην υπόθεση μου.
 
+![Καταγραφή22](https://user-images.githubusercontent.com/125687882/236303202-14b849fe-699f-4707-adc7-20eec760a0a0.JPG)
+
+Παρακάτω είναι το τελικό βίντεο για το unit 5: https://youtu.be/DaLgy5BDXag
+
+~ UNIT 2
 # 3rd Deliverable 
 
 
