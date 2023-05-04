@@ -245,6 +245,13 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
 ![Καταγραφή30](https://user-images.githubusercontent.com/125687882/236321472-cba5c5f3-bd2c-4319-8d64-169712b28b5a.JPG)
 ![Καταγραφή32](https://user-images.githubusercontent.com/125687882/236321504-bb696436-e82d-43e2-9f4a-51f75b9019e1.JPG)
 
+Ως συνεχεία του βίντεο προστεθήκαν νέες κάμερες 
+
+![Καταγραφή7](https://user-images.githubusercontent.com/125687882/236323088-899ff9ff-e383-4917-87a6-871a4ed59623.JPG)
+![Καταγραφή33](https://user-images.githubusercontent.com/125687882/236323244-e796e46a-d240-464e-895c-8f264eb4f72e.JPG)
+![Καταγραφή34](https://user-images.githubusercontent.com/125687882/236323278-da09487d-80ec-4762-b7af-990db4c6138d.JPG)
+![Καταγραφή35](https://user-images.githubusercontent.com/125687882/236323309-9c00bea5-d993-45f2-841a-6a79007a58b6.JPG)
+
 
 # 3rd Deliverable 
 
