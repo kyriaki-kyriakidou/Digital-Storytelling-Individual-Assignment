@@ -220,6 +220,21 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
 
 ![Καταγραφή24](https://user-images.githubusercontent.com/125687882/236315788-068ecf2e-c922-4e33-89f2-eb1b088336fb.JPG)
 
+Παρόμοιες αλλαγές έγιναν και στις  CM κάμερες αλλά πέρα από τη  εντολή bloom μορφοποίησα  και άλλα φίλτρα όπως το white balance, το shadows midtones highlights και το  color adjustment όπως φαίνετε παρακάτω (εικόνες είναι από μια από τις κάμερες και οι ρυθμίσεις διαφοροποιούνται σε ένα μικρό βαθμό μεταξύ τους) : 
+
+![Καταγραφή27](https://user-images.githubusercontent.com/125687882/236319009-19393a3b-2720-4d89-acbc-32403db80ecc.JPG)
+
+χωρις τα φίλτρα:
+
+![Καταγραφή46](https://user-images.githubusercontent.com/125687882/236319547-602b03fe-1359-4826-8c4c-953cdefdc4be.JPG)
+
+με το bloom:
+
+![Καταγραφή44](https://user-images.githubusercontent.com/125687882/236319682-c372cd33-f20e-4a91-b6a8-8eb090ddf095.JPG)
+
+με το color adjustment:
+
+![Καταγραφή45](https://user-images.githubusercontent.com/125687882/236319797-a82e6805-4652-4f6a-9c65-cf4c0763c4e0.JPG)
 
 
 # 3rd Deliverable 
