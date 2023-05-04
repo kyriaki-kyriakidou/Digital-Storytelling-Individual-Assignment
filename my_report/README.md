@@ -252,6 +252,10 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
 ![Καταγραφή34](https://user-images.githubusercontent.com/125687882/236323278-da09487d-80ec-4762-b7af-990db4c6138d.JPG)
 ![Καταγραφή35](https://user-images.githubusercontent.com/125687882/236323309-9c00bea5-d993-45f2-841a-6a79007a58b6.JPG)
 
+Παρακάτω είναι η πόλη μετά την έκρηξη όπου αποφάσισα να σβήσω τα φώτα και να προσθέσω την ομίχλη.
+
+![Καταγραφή40](https://user-images.githubusercontent.com/125687882/236324047-8e0c1583-1253-4860-8753-f8567f990834.JPG)
+
 
 # 3rd Deliverable 
 
