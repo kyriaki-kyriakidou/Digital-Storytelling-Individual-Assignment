@@ -257,6 +257,43 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
 
 ~ UNIT 7
 
+Στην κατεστραμμένη πόλη προστέθηκε το smoke system  για να δημιουργήσει πιο έντονη την εντύπωση του καπνού και της ομίχλης  
+
+![Καταγραφή1](https://user-images.githubusercontent.com/125687882/236584519-8cd45bcc-90c2-4a0c-b52c-b7c806807cde.JPG)
+
+![Καταγραφή33](https://user-images.githubusercontent.com/125687882/236584753-1e5196e9-149a-4216-8ec9-227e544e79b3.JPG)
+
+Αυτός είναι και ο λόγος που έκανα τις παρακάτω ρυθμίσεις οι οποίες επιλέχτηκαν μετά από δόκιμες.
+
+![Καταγραφή2](https://user-images.githubusercontent.com/125687882/236585065-b5a37153-7819-469f-be7e-8f753732724e.JPG)
+
+ενώ προστέθηκε και ένα animation depth of field.
+
+![Καταγραφή9](https://user-images.githubusercontent.com/125687882/236584834-113d5a41-a55b-4cbe-8d40-edf1e2f33e74.JPG)
+![Καταγραφή10](https://user-images.githubusercontent.com/125687882/236584851-4a696432-2484-4b2d-963d-46fe62d8b3d0.JPG)
+
+
+Το Directional light κατά την αλλαγή του πλάνου αλλάζει χρώμα και πηγαίνει από το μπεζ στο μπλε για να σκοτεινιάσω το πλάνο, για να δημιουργήσω μια πιο μελαγχολική ατμόσφαιρα αλλά και να κάνω πιο έντονη την αλλαγή της πόλης πηγαίνοντας από πιο ζεστά χρώματα (μπεζ και κόκκινο) σε πιο ψυχρά (μπλε και μωβ). Τα φώτα απενεργοποιήθηκαν και ενεργοποιήθηκε ένα νέο.
+
+![Καταγραφή31](https://user-images.githubusercontent.com/125687882/236585201-855ac85c-687f-416b-bf48-077d512f76a7.JPG)
+![Καταγραφή32](https://user-images.githubusercontent.com/125687882/236585203-ef60cfe6-6d5d-4f93-9660-3f4a1e58c0c6.JPG)
+![Καταγραφή30](https://user-images.githubusercontent.com/125687882/236585204-be10c202-ae45-4d6d-a627-b21e928fa3af.JPG)
+
+Με την βοήθεια κινούμενων  φώτων αλλά και του spark (που έκανα κάποιες πολύ μικρές τροποποιήσεις ) δημιούργησα τα effect για την αποκάλυψη του ιερού σπαθιού που θα σώσει την πόλη.
+Το σπαθί 
+Νέες κάμερες (οι κάμερες πλέον είναι 15)
+Η μουσική που βρίσκετε στο βίντεο δεν είναι σίγουρα η τελική για αυτό και τα δυο κομμάτια που έχουν μπει μπορεί να μην ταιριάζουν απόλυτα. Περά από την μουσική έχει προσθέσει και ένα ηχητικό εφέ που είναι ο ήχος της γάτας όταν πηδά τρομαγμένη. Περισσότερα ηχητικά εφέ αναμένονται να προστεθούν κατά την εξέλιξη του βίντεο.
+
+Τέσσερα βασικά κομμάτια προστεθήκαν στο βίντεο επιλεγμένα έτσι ώστε να ταιριάζουν με την ατμόσφαιρα της κάθε σκηνής . 
+imperial - j^p^n 
+dramatic- enchantment-mysterious-choir
+ please-calm-my-mind
+ night-ride
+Το κάθε κομμάτι το βρήκα σε ένα online site ελεύθερης χρήσης (χωρίς copyright)  το οποίο είναι εγγεγραμμένο στις πήγες μου.
+Έγιναν αρκετές ρυθμίσεις κυρίως στην ένταση της μουσικής για την ομαλή εναλλαγή στο επόμενο κομμάτι
+Σε κάποια κομμάτια προσθετικέ και οι εντολές audio reverd filter, audio echo filter.
+
+
 
 
 
@@ -267,6 +304,7 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
 # 3rd Deliverable 
 
 
+
 # Conclusions
 
 
@@ -274,3 +312,7 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
 https://www.turbosquid.com/3d-models/low-poly-new-york-taxi-3d-model-1976355
 
 https://www.turbosquid.com/3d-models/flower-person-3d-1195683
+
+https://pixabay.com/music/search/phonk/
+
+https://www.turbosquid.com/3d-models/sword-unity-3d-max/1034310
