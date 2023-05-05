@@ -183,7 +183,6 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
  
  Έτσι δημιούργησα 5 διαφορετικές κάμερες οι τρεις πρώτες κάμερες δημιουργήθηκαν για να δώσουν περισσότερη κίνηση και να δείξουν περισσότερο την  πόλη στον θεατή καθιστώντας την πιο ζωντανή. Οι υπόλοιπες κάμερες έχουν τοποθετηθεί με τέτοιο τρόπο ώστε να κάνουν αισθητή την αλλαγή της κατάστασης της πόλης αλλά και να βοηθήσουν τον χρηστή να νοιώσει ότι το Μάτι δεν είναι απλά ένας νέος χαρακτήρας αλλά μια απειλή.
  
- ![Καταγραφή11](https://user-images.githubusercontent.com/125687882/234999309-3962b8e2-ca82-487a-8fc2-9d349cd15cfe.JPG)
  ![Καταγραφή14](https://user-images.githubusercontent.com/125687882/234998890-4db5ebe0-4881-4a11-9614-95ba7c09652a.JPG)
 ![Καταγραφή5](https://user-images.githubusercontent.com/125687882/234998938-b903028f-2feb-43fd-8cbc-166e2b991183.JPG)
 ![Καταγραφή3](https://user-images.githubusercontent.com/125687882/234999054-bbe0e7ce-e07f-4cad-8cfb-3a63c010b56a.JPG)
@@ -260,7 +259,11 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
 
 
 
+
+
 Το βιντεο ΧΩΡΙΣ ΗΧΟ: https://youtu.be/JG8hzo5h5oc
+
+Τελικό βίντεο : https://youtu.be/RdCSjdFNO9k
 # 3rd Deliverable 
 
 
