@@ -311,8 +311,8 @@ imperial - j^p^n
 dramatic- enchantment-mysterious-choir
  please-calm-my-mind
  night-ride
- 
- ![Uploading Καταγραφή22.JPG…]()
+
+![Καταγραφή22](https://user-images.githubusercontent.com/125687882/236617967-410807f5-8d01-48e6-af46-062e3290ffb6.JPG)
 
  
 Το κάθε κομμάτι το βρήκα σε ένα online site ελεύθερης χρήσης (χωρίς copyright)  το οποίο είναι εγγεγραμμένο στις πήγες μου.
@@ -324,12 +324,21 @@ dramatic- enchantment-mysterious-choir
 
 Περά από την μουσική έχει προσθέσει και ένα ηχητικό εφέ που είναι ο ήχος της γάτας όταν πηδά τρομαγμένη. Περισσότερα ηχητικά εφέ αναμένονται να προστεθούν κατά την εξέλιξη του βίντεο.
 
-![Καταγραφή21](https://user-images.githubusercontent.com/125687882/236617839-fec5de58-86c9-403c-afd2-cc113eb41d18.JPG)
+![Καταγραφή34](https://user-images.githubusercontent.com/125687882/236618224-76f0dcef-b7f5-4678-bd48-464b7198e276.JPG)
 
 Τέλος προσθέθηκε ο τίτλος στο τέλος αλλά και στην αρχή (στην αρχή μαζί με το όνομα μου). Η επιλογή αυτή έγινε μετά την απόφαση που πήρα να χρησιμοποιηθεί το animation μου σαν opening σε παιχνίδι οπότε η εμφάνιση του τίτλου με πιο graphic γράμματα είναι γαιτι αυτή θα είναι η οθόνη μενού που θα βλέπει ο παίκτης μετά το intro που θα γίναιτε το World building για αυτον.
 
+![Καταγραφή23](https://user-images.githubusercontent.com/125687882/236618279-c6f61c33-0465-4012-9b2a-dd8bd818105a.JPG)
+![Καταγραφή27](https://user-images.githubusercontent.com/125687882/236618272-af8c7cfb-e408-4d28-a7db-50211b078441.JPG)
+![Καταγραφή28](https://user-images.githubusercontent.com/125687882/236618320-8a105be6-2983-4ff5-8bf1-fe08c4ec292e.JPG)
+
+
+
+
 
 Τελικό βίντεο : https://youtu.be/RdCSjdFNO9k
+
+
 
 
 # 3rd Deliverable 
