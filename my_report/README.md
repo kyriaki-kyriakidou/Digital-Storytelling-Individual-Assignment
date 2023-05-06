@@ -294,6 +294,7 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
 
 Νέες κάμερες (οι κάμερες πλέον είναι 15)
 
+![Καταγραφή3](https://user-images.githubusercontent.com/125687882/236586628-46aec091-6de2-4c46-b579-1a8f9fb307de.JPG)
 ![Καταγραφή11](https://user-images.githubusercontent.com/125687882/236586015-e5fde58d-7041-4624-8a35-8dd0f6af567f.JPG)
 ![Καταγραφή14](https://user-images.githubusercontent.com/125687882/236586067-65f62bf7-6244-4e69-bdd6-25214c33a2b1.JPG)
 ![Καταγραφή16](https://user-images.githubusercontent.com/125687882/236586104-6a28d2cc-b933-4270-b517-98173b7f2573.JPG)
