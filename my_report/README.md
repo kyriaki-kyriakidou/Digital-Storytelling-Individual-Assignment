@@ -296,9 +296,11 @@ https://user-images.githubusercontent.com/125687882/228882344-3ef7d6a7-c972-4e82
 
 ![Καταγραφή3](https://user-images.githubusercontent.com/125687882/236586628-46aec091-6de2-4c46-b579-1a8f9fb307de.JPG)
 ![Καταγραφή11](https://user-images.githubusercontent.com/125687882/236586015-e5fde58d-7041-4624-8a35-8dd0f6af567f.JPG)
+![Καταγραφή13](https://user-images.githubusercontent.com/125687882/236618478-b3fc8b91-e6d7-477e-b146-db9497a57957.JPG)
 ![Καταγραφή14](https://user-images.githubusercontent.com/125687882/236586067-65f62bf7-6244-4e69-bdd6-25214c33a2b1.JPG)
 ![Καταγραφή16](https://user-images.githubusercontent.com/125687882/236586104-6a28d2cc-b933-4270-b517-98173b7f2573.JPG)
 ![Καταγραφή17](https://user-images.githubusercontent.com/125687882/236586129-3a776493-6e0f-48c7-8f3e-f8210bad80e9.JPG)
+
 
 
 Το βιντεο ΧΩΡΙΣ ΗΧΟ: https://youtu.be/JG8hzo5h5oc
@@ -334,6 +336,8 @@ dramatic- enchantment-mysterious-choir
 
 
 
+![Καταγραφή25](https://user-images.githubusercontent.com/125687882/236618504-31ff5a0b-c43a-4886-adbd-f0f6ce65eab0.JPG)
+![Καταγραφή26](https://user-images.githubusercontent.com/125687882/236618505-ed24d50a-11d6-40b4-bc55-b82fe239396e.JPG)
 
 
 Τελικό βίντεο : https://youtu.be/RdCSjdFNO9k
