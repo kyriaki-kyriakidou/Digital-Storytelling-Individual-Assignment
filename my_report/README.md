@@ -351,9 +351,34 @@ dramatic- enchantment-mysterious-choir
 
 
 # 3rd Deliverable 
+Για το τελευταίο παραδοτέο αρχικά πρόσθεσα το κουμπί για την έναρξης του παιχνιδιού.
+Το περίγραμμα είναι ένα image με μπλε χρώμα 
+
+![Καταγραφή1](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/4e4ece05-7f36-4f7c-aa60-bb287939c3a1)
+
+Αποφάσισα να του προσθέσω ένα animation που κάνει fade in όπως φαίνετε παρακάτω
+
+![Καταγραφή6](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/f9c3ea59-0b87-4987-b106-2b3264d7c2df)
+![Καταγραφή7](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/39ef175e-a612-455a-8681-6bf529ba2c77)
+![Καταγραφή8](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/df9ed772-6158-4b0c-9df6-44401bf1e50b)
+
+Επίσης αποφάσισα να περιλάβω την ιστορία σε κείμενο όπως συνηθίζεται στα παιχνίδια κυρίως τα πιο παλιά.
+
+![Καταγραφή](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/b2f9fe66-cd79-4201-ad9d-9133264cff62)
+
+Επειδή ήθελα τα λόγια να μην κλέβουν την εμπειρία και να καλύπτουν κομμάτια του βίντεο αποφάσισα να βάλω τα κουτιά της αφηγήσεις σε δυο θέσεις πάνω και κάτω , τα όποια επιλέχτηκαν ανάλογα που υπήρχε καινός χώρος στο κάθε πλάνο.
+
+![Καταγραφή3](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/3bb6d961-7e84-44aa-bbb6-553d13a080b8)
+![Καταγραφή4](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/e5c630f6-541d-4d73-8e9c-8c650cdb8f7c)
+
+Όπως και με το κουμπί εκκίνησης του παιχνιδιού τα κουτιά αφήγησης είναι images που τους αχώ βάλει activate tracks για να εμφανίζονται μόνο όταν χρειάζεται και να μην χαλάσει την συνολική εικόνα.
+
+![Καταγραφή2](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/9a7dd3ab-33e7-42fe-90ac-a99eb2638937)
+
+![Καταγραφή5](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/88ddf526-2b63-4efb-a80d-852790872362)
 
 
-
+ΤΕΛΙΚΟ βίντεο : https://youtu.be/lu7ikQQtXZc
 # Conclusions
 
 
