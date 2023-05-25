@@ -368,8 +368,9 @@ dramatic- enchantment-mysterious-choir
 
 Επειδή ήθελα τα λόγια να μην κλέβουν την εμπειρία και να καλύπτουν κομμάτια του βίντεο αποφάσισα να βάλω τα κουτιά της αφηγήσεις σε δυο θέσεις πάνω και κάτω , τα όποια επιλέχτηκαν ανάλογα που υπήρχε καινός χώρος στο κάθε πλάνο.
 
-![Καταγραφή3](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/3bb6d961-7e84-44aa-bbb6-553d13a080b8)
 ![Καταγραφή4](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/e5c630f6-541d-4d73-8e9c-8c650cdb8f7c)
+![Καταγραφή3](https://github.com/kyriaki-kyriakidou/Digital-Storytelling-Individual-Assignment/assets/125687882/3bb6d961-7e84-44aa-bbb6-553d13a080b8)
+
 
 Όπως και με το κουμπί εκκίνησης του παιχνιδιού τα κουτιά αφήγησης είναι images που τους αχώ βάλει activate tracks για να εμφανίζονται μόνο όταν χρειάζεται και να μην χαλάσει την συνολική εικόνα.
 
